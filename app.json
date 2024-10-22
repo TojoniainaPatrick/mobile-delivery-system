@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "gestion-vente",
-    "slug": "gestion-vente",
+    "name": "delivery-managment",
+    "slug": "delivery-managment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
